@@ -1,3 +1,4 @@
+2
 #!/bin/bash
 # CamPhish v1.5
 # Powered by TechChip
